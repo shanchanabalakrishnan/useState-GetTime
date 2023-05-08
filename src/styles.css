@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: bisque;
+
+  margin: 50px auto;
+}
+
+.container {
+  padding: 5%;
+  margin: 15px 32px;
+  size: 15px;
+}
+button {
+  background-color: cadetblue;
+  border-width: 5px;
+  border-color: rgb(238, 135, 135);
+  border-radius: 10px;
+  box-shadow: 3px 3px gray;
+  padding: 10px;
+}
